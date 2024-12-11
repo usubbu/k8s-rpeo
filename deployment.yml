@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: cont-1
-        image: shaikmustafa/cycle
+        image: shaikmustafa/mygame
         ports:
         - containerPort: 80
 
